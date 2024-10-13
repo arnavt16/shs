@@ -1,15 +1,15 @@
 [
     {
-        "name": "Winter",
-        "suggestedColor": "#02647a",
-        "background": "#f2fcff",
-        "secondaryBackground": "white",
-        "headerBackgroundColor": "#c3e3f5",
+        "name": "Spiderman",
+        "suggestedColor": "#ff0000",
+        "background": "#1e3a8a",
+        "secondaryBackground": "#000000",
+        "headerBackgroundColor": "#ff0000",
         "headerScheduleBackgroundColor": "var(--background)",
         "schedule": "",
-        "primary": "#02647a",
-        "secondary": "#02647a",
-        "tertiary": "#02647a",
+        "primary": "#ff0000",
+        "secondary": "#1e3a8a",
+        "tertiary": "#000000",
         "iconTextCardColor": "white",
         "iconTextCardInvertColor": "var(--color)"
     }
